@@ -1,5 +1,4 @@
-# Collaboration
-3th (and final) project of Udacity's Deep Learning Nanodegree program
+
 
 ## Instructions
 
